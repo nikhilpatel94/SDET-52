@@ -7,7 +7,7 @@ public class hello {
 		public void tetsMethod() {
 			System.out.println("hbjds");
 	
-			System.out.println("hi");
+			System.out.println("dhaklxkja;lxkailxkakx;a");
 			
 			System.out.println();
 	
